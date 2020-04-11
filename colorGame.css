@@ -72,10 +72,11 @@ button:hover{
 }
 
 h3{
-	text-align: left;
+	
 	color:white;
 	font-family: "IBM Plex Sans";
-	font-size:30px;
+	width:10%;
+
 }
 
 h4{

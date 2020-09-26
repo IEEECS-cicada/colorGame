@@ -12,6 +12,13 @@ body {
 	margin: 1.66%;
 	border-radius:50%;
 }
+#bold{
+	color: chartreuse;
+}
+#bold2
+{
+	color:crimson;
+}
 
 #container {
 	margin: 0px auto;
@@ -26,7 +33,7 @@ h1 {
 	margin:0;
 	font-weight:normal;
 	text-transform:uppercase;
-	padding:20px 0;
+	padding:10px 0;
 	transition: background 0.8s;
 	--webkit-transition : background 0.8s; 
 	--moz-transition background: 0.6s;
@@ -75,7 +82,7 @@ h3{
 	
 	color:white;
 	font-family: "IBM Plex Sans";
-	width:10%;
+	width:20%;
 
 }
 
